@@ -1,1 +1,1 @@
-
+Za projektno nalog sem si izbrala naslov 4 iz seznama možnih naslovov nalog. V projektni nalogi bom izdelala programski paket za delo z osnovnimi geometrijskimi objekti v ravnini. Uporabila bom razrede za točko, daljico in trikotnik, skupaj z metodami za izračun osnovnih lastnosti vseh treh. Poseben poudarek bo na funkcijah za določanje včrtanega in očrtanega kroga trikotnika. priložen bo tudi 2D prikaz projektov za lažjo predstavo.
